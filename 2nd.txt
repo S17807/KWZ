@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Drugi plik tekstowy ze zmian¹ poprawka
+=======
+Drugi plik tekstowy ze zmian¹ 2
+>>>>>>> feature/branch
